@@ -8,4 +8,4 @@ A simple TODO List application allowing for easy user input on everyday tasks or
 * Fork and Clone project from PHASE1-PROJECT repo on GitHUB (https://github.com/JorgeCasta0207/Phase-1-TodoList-Project.git)
 * Launch and run JSON server for db.json
 * Launch Project on any webpage using index.html
-## All Set To Do Enjoy ! :)
+## Now Your All Set Enjoy And Make TODOS ! :)
